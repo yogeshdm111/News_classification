@@ -26,6 +26,8 @@
   tkinter (for GUI)
   joblib (for model persistence)
 
+  install all these depenencies by running pip install requirements.txt file
+
 >>Steps
   Open news News_classification.ipynb in Jupyter Notebook(or google colab).
   Execute the cells to preprocess the dataset, train multiple models (Logistic Regression, Random Forest, Decision Tree,   K-Nearest Neighbors, Gaussian Naive Bayes), and evaluate their performance.
